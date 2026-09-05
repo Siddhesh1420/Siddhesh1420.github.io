@@ -10,9 +10,9 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/siddhesh-bansal-646a98325/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=2DD4BF" alt="LinkedIn"/></a>
-  <a href="https://siddheshbansal.github.io"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=google-chrome&logoColor=2DD4BF" alt="Portfolio"/></a>
+  <a href="https://siddhesh1420.github.io/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=google-chrome&logoColor=2DD4BF" alt="Portfolio"/></a>
   <a href="mailto:siddheshb@iitbhilai.ac.in"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=2DD4BF" alt="Email"/></a>
-  <a href="https://github.com/Siddhesh1420/Siddhesh1420"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=2DD4BF" alt="GitHub"/></a>
+  <a href="https://github.com/Siddhesh1420"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=2DD4BF" alt="GitHub"/></a>
 </p>
 
 </div>
@@ -86,9 +86,11 @@ languages               : [Python, C, SQL, JavaScript, HTML/CSS]
 
 ### `$ cat activity_graph`
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/siddheshbansal/siddheshbansal/main/assets/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Graph"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Siddhesh1420/Siddhesh1420/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Siddhesh1420/Siddhesh1420/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/Siddhesh1420/Siddhesh1420/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
